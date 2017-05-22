@@ -1,7 +1,6 @@
 # JAVA-
 共享代码
 import javax.swing.*;
-
 import java.awt.event.*;
 public class UI {
 public static void main(String[] args){

@@ -1,5 +1,6 @@
 # JAVA-
 共享代码
+import java.swing.*;
 import javax.swing.*;
 import java.awt.event.*;
 public class UI {
